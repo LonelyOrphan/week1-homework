@@ -18,11 +18,12 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 
 
  ## Steps Followed
-
-```
+ 
+ ```
 Changed header <div> to <header>
  Changed nav <div> to <nav>
  Changed div to nav in style sheet
@@ -37,3 +38,4 @@ Changed header <div> to <header>
  Changed title from "webpage" to "Horiseon Marketing"
  Added ID to SEO section to make first link work
  Commented CSS to show sections
+```
