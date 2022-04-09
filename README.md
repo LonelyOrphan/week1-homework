@@ -1,5 +1,3 @@
-Repository contains quality README file with description, screenshot, and link to deployed application.
-
 This webite has been created for Horiseon - a marketing agency that follows accessibility standards so that it is optimised for search engines.
 
 Site URL: https://lonelyorphan.github.io/week1-homework/
@@ -22,7 +20,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-## Steps Followed:
+ ## Steps Followed
+
+```
 Changed header <div> to <header>
  Changed nav <div> to <nav>
  Changed div to nav in style sheet
